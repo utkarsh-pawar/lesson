@@ -1,0 +1,19 @@
+.header img{
+    width: 80px;
+    height: 80px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header ul{
+    display: flex;
+    list-style-type:none;
+}
+
+.header ul li a{
+    text-decoration: none;
+    margin: 5px;
+
+}
